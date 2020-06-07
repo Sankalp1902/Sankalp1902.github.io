@@ -1,35 +1,28 @@
-/*
-  Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-/*======================================
-//--//-->   STYLES GENERALES
-======================================*/
-
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Montserrat:wght@300&display=swap');
 body {
   /*background-color: #000;*/
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.8) 100%);
   color: #cecece;
+  font-family: 'Montserrat', sans-serif;
 }
 
 h1,
 h2,
 h3,
 h4,
-
 h6 {
   color: #f8f8ff;
+  font-family: 'Comfortaa', cursive;
 }
 
 h5,
 h2 {
   color: #fff;
+  font-family: 'Comfortaa', cursive;
 }
 
 a {
+  font-family: 'Comfortaa', cursive;
   color: #cecece;
   transition: all 0.5s ease-in-out;
 }
